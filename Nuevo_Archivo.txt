@@ -1,3 +1,3 @@
 Dentro de este bloc de notas haré una modificación
 
-Probar el diff
+Comprobando diff
